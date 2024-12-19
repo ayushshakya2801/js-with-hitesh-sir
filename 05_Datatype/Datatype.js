@@ -11,13 +11,13 @@ let isLoggedIn = false;
 
 // number => 2 to power 53
 //string => ""
-// bigint
+// bigint dig number 
 //boolean => true / false
 // null => standlone  value
 // undefined => undefined
 // symbol => unique ness
 
-// object
+// object 
 
 console.log(typeof isLoggedIn); // boolean type
 let city = "null"; // null is a object type

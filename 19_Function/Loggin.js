@@ -19,3 +19,11 @@ return (`${username} just loggin`)
    console.log(allitemprice(300,800,600))
 
    
+
+
+    function sumallitems( ...num2  ){
+      return num2 
+    }
+
+    console.log(sumallitems(79898,67,78));
+    

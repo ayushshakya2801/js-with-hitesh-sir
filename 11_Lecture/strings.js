@@ -8,7 +8,7 @@
 
 //     console.log(` My name is ${name} i am from ${city} and my std id is ${id}`);   
     
-    // this is the professional lway to print all values
+    // this is the professional way to print all values
 
    const name =  "ayush shakya"
   const emailid = "ayushshakya@google.com"

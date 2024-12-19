@@ -16,11 +16,16 @@
     full_name : {
         user_full_name : {
             first_name : "ayush",
-            last_name : "Shakya"
+            last_name : "Shakya",
+            Std_id : "763682"
         }
     }
  }
 
  console.log(regularuser.full_name.user_full_name.first_name);
+ console.log(regularuser.full_name.user_full_name.last_name);
+ console.log(` my student id = ${regularuser.full_name.user_full_name.Std_id}`);
+ 
+ 
  
  

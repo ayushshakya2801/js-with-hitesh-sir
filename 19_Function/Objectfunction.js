@@ -9,3 +9,15 @@
     
  }
   handleObject(user)
+
+
+// show items price whatever i chooise
+
+   const fruitprices = {
+      appple : 100,
+      orange : 50,
+      papaya : 67
+   }
+
+   console.log(fruitprices["orange"]);
+   

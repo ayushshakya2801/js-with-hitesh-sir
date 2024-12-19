@@ -1,6 +1,6 @@
   // +++++++++ dates 
-  const myDate = new Date()
-  console.log(myDate);
+const myDate = new Date()
+console.log(myDate);
 console.log(myDate.toString());   // covert into string 
 console.log(myDate.toDateString());  // its prints today date with day and months name = Fri Dec 13 2024
 console.log(myDate.toISOString());  // its prints today date =  2024-12-13T13:34:14.763Z
