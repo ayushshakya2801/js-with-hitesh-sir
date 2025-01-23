@@ -3,7 +3,7 @@
 // const score = 500;
 // console.log(score);
 
-// const newblance = new Number(90989);
+// const newblance = new Number(90989); 
 // console.log(newblance)
 // console.log(newblance.toString().length);
 

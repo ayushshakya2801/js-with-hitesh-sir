@@ -9,8 +9,9 @@
 
 // 2.  Non permitive 
     //   Array , Objects , Function
+    // An array is a collection of items, like a list, that is stored in a single variable.
 
-//    console.log(typeof 42); // "number"
+// console.log(typeof 42); // "number"
 // console.log(typeof "hello"); // "string"
 // console.log(typeof null); // "object" (a well-known quirk)
 // console.log(typeof undefined); // "undefined"
@@ -29,6 +30,6 @@
          age : 52, // undefined
           Name : "Hitesh", // undefined
       }
-
+       
       console.log(typeof age)
       

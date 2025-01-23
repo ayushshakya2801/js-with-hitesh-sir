@@ -12,7 +12,7 @@
 
 let someNumber = 43
 
-let stringNumber= String(someNumber)
+let stringNumber = String(someNumber)
  console.log(stringNumber);
  console.log(typeof stringNumber);   
  // yha number to string mai convert kr diya hai 

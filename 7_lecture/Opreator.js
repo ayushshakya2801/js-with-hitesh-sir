@@ -13,7 +13,8 @@
     // console.log(8*2);
     // console.log(8/2);
     // console.log(9%2); 
-    //  yai dekhata hai ki maine apne number ki divide kiya hai to jo remeber bacha hai bo he show karega yai eshme 9 ko 2 se dive kiya ko remenber 1 bach ahai 
+    //  yai dekhata hai ki maine apne number ki divide kiya hai to jo remeber bacha hai bo he show karega yai 
+    // eshme 9 ko 2 se dive kiya ko remenber 1 bach hai 
     
     
     //  add string 

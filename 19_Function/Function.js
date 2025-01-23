@@ -4,7 +4,7 @@
 // Function Declaration
 // Function Expression
 // Arrow Functions (ES6)
-// Anonymous Functions
+// Anonymous Functions 
 // Immediately Invoked Function Expression (IIFE)
 
 

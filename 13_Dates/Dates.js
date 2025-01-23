@@ -15,7 +15,7 @@ let mycreatedDate = new Date(2024,0,23)
 let myseccreatedDate = new Date(2024,14,23)  
 let mychcreatedDate = new Date ("2024-11-07") // yai formate hamne "YY-MM-DAY" eshka ulta bhi hoat h "MM-YY-DATE"
 console.log(mycreatedDate.toLocaleString()); // output = 1/23/2024, 12:00:00 AM
-console.log(mycreatedDate.toDateString());  // output = Tue Jan 23 2024
+console.log(mycreatedDate.toDateString());  // output = Tue Jan 23 2024 
 console.log(myseccreatedDate.toDateString());  // agar months jada dal ko to yai next year mai pahuch jata hai just like = Sun Mar 23 2025
 
 console.log(mychcreatedDate.toLocaleString());  // 11/7/2024, 5:30:00 AM

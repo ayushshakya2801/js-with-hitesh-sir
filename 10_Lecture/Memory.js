@@ -6,7 +6,7 @@
 
 //   let myYoutubename = "Ayush shakya"
 //    let  anothername = myYoutubename;
-//     mySecondYoutubename = "Chai aur code "
+//     mySecondYoutubename = "Chai aur code"
 //     console.log(mySecondYoutubename);
 //     console.log(anothername);
     

@@ -3,7 +3,7 @@
  const num_1 = {a:1,b:2};
  const num_2 = {c:1,d:2};
  const num_3 = Object.assign({} , num_1, num_2)  // using assing
- // const num_4 = {...num_1 , ...num_2}  // using spred preator
+ // const num_4 = {...num_1 , ...num_2}  // using spred opreator
 //  console.log(num_4);
  
  

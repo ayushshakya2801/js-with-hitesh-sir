@@ -10,6 +10,6 @@ var account_Password = "123456"
 
 //   when i print multiple value in table form then i use   console.table ([....])
 
-// and print single value then i ue console.log(enter you charcter name )
+// and print single value then i use console.log(enter you charcter name )
   
  
