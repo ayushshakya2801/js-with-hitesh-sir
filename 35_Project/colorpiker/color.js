@@ -20,4 +20,5 @@
         body.style.backgroundColor = e.target.id;
       }
     });
+   
 });
